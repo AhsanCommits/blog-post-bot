@@ -1,16 +1,22 @@
 Hi there, I'm [Ahsan Raza](https://ahsanraza059.github.io/) 👋
 
 I'm a Man, Friend, and Developer!
+<ul>
+    <li>🔭 I’m currently working at [Services Ground](https://servicesground.com/)!</li>
+    <li>🌱 I’m currently learning Computer Science From Comsats University</li>
+    <li>👯 I’m looking to collaborate with other content creators</li>
+    <li>🥅 2022 Goals: Give impact to society</li>
+    <li>⚡ Fun fact: I love blogging,coding, reading books, and googling</li>
+</ul>
 
-🔭 I’m currently working at [Services Ground](https://servicesground.com/)!
 
-🌱 I’m currently learning Computer Science From Comsats University
 
-👯 I’m looking to collaborate with other content creators
 
-🥅 2022 Goals: Give impact to society
 
-⚡ Fun fact: I love blogging,coding, reading books, and googling
+
+
+
+
 
 Connect with me:
 
