@@ -1,6 +1,6 @@
-Hi there, I'm [Ahsan Raza](https://ahsanraza059.github.io/) 👋
+## Hi there, I'm [Ahsan Raza](https://ahsanraza059.github.io/) 👋
 
-I'm a Man, Friend, and Developer!
+# I'm a Man, Friend, and Developer!
 <ul>
     <li>🔭 I’m currently working at [Services Ground](https://servicesground.com/)!</li>
     <li>🌱 I’m currently learning Computer Science From Comsats University</li>
@@ -10,15 +10,7 @@ I'm a Man, Friend, and Developer!
 </ul>
 
 
-
-
-
-
-
-
-
-
-Connect with me:
+## Connect with me:
 
 <a href="https://ahsanraza059.github.io/" style="text-decoration: none;">
   <img height="22" width="22" src="https://github.com/Rush/Font-Awesome-SVG-PNG/blob/master/black/svg/globe.svg" />
@@ -36,4 +28,3 @@ Connect with me:
 
 [Github Stats](https://github-readme-stats.vercel.app/api?username=ahsanraza059&show_icons=true&hide_border=true)
 
-📚 Latest Medium Story
